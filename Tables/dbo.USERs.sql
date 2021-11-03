@@ -1,6 +1,7 @@
 CREATE TABLE [dbo].[USERs]
 (
 [NAME] [varchar] (50) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL CONSTRAINT [DF__USERs__NAME__239E4DCF] DEFAULT (''),
-[phone] [int] NOT NULL CONSTRAINT [DF__USERs__phone__24927208] DEFAULT ((0))
+[phone] [int] NOT NULL CONSTRAINT [DF__USERs__phone__24927208] DEFAULT ((0)),
+[id] [uniqueidentifier] NOT NULL CONSTRAINT [DF__USERs__id__25869641] DEFAULT (newid())
 ) ON [PRIMARY]
 GO
