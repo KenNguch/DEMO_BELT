@@ -1,0 +1,7 @@
+INSERT INTO [dbo].[USERs] ([id], [NAME], [phone]) VALUES ('b9309035-0d9e-4bbd-a1ee-787caa88df7e', '', 0)
+INSERT INTO [dbo].[USERs] ([id], [NAME], [phone]) VALUES ('2cd7251f-ec83-4cd6-a245-86d130d2ba20', '', 0)
+INSERT INTO [dbo].[USERs] ([id], [NAME], [phone]) VALUES ('1b29df2f-b85e-44af-8f71-a73f69eaa8de', '', 0)
+INSERT INTO [dbo].[USERs] ([id], [NAME], [phone]) VALUES ('44b5845f-fae8-4ea7-b8fe-aa3b4c84db02', '', 0)
+INSERT INTO [dbo].[USERs] ([id], [NAME], [phone]) VALUES ('151825d7-5925-4bbf-9a14-b6ac99885afb', '', 0)
+INSERT INTO [dbo].[USERs] ([id], [NAME], [phone]) VALUES ('7e128406-6cae-4bfe-9c4a-d107574b2cc9', '', 0)
+INSERT INTO [dbo].[USERs] ([id], [NAME], [phone]) VALUES ('ff331ca3-1f20-4031-9d15-e46687ed8a88', '', 0)
